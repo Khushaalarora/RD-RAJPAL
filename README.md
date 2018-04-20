@@ -1,37 +1,92 @@
-## Welcome to GitHub Pages
+<html>
+<head>
+<meta charset="utf-8">
+<title>MAKE IN INDIA</title>
+</head>
 
-You can use the [editor on GitHub](https://github.com/Khushaalarora/RD-RAJPAL/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+<body bgcolor= "black" left margin="45">
+<font size="12">
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<img src="C:\Users\Lenovo\Desktop\78.gif" width="40%" style="margin-left:350px;">
+<style>
+body {
+    font-size: 24px;
+}
 
-### Markdown
+ul {
+    list-style-type: none;
+    
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    position: -webkit-sticky; /* Safari */
+    position: sticky;
+    top: 0;
+    
+}
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+li {
+    float: left;
+}
 
-```markdown
-Syntax highlighted code block
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
 
-# Header 1
-## Header 2
-### Header 3
+li a:hover {
+    background-color: #111;
+}
 
-- Bulleted
-- List
+.active {
+    background-color: gray;
+}
+</style>
+</head>
+<body>
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+<ul>
+  <li><a class="active" href="#home">HOME</a></li>
+  <li><a href="#news">NEWS</a></li>
+  <li><a href="#contact">CONTACT</a></li>
+  <li style="float:right"><a class="active" href="#about us">ABOUT US</a></li>
+</ul>
 
-[Link](url) and ![Image](src)
-```
+<div style="background-color:white;margin:50px;">
+<div style="margin:50px;"><p><b><font size="5" face="comic sans ms" color="black">
+<p><br><b><u>INTRODUCTION:</u></b></p>
+Make In India is a Lion's Step. So, pledged the prime minister of India, Narendra Modi, during the inauguration of the prominent'Make in India'campaign.
+Make in India, a type of Swadeshi movement covering 25 sectors of economy, was launched by the Government of India on 25 September 2014 to encourage companies to manufacture their products in India. As per the current policy, 100% FDI (Foreign Direct Investment) permitted in all the 25 sectors, except for space (74%), defence (49%) and news media (26%). Japan and India announced a US$12 billion "Japan-India Make-in-India Special Finance Facility" fund.</p>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+<img src="C:\Users\Lenovo\Desktop\modi.jpg"width="30%" style="margin-left:350px;">
+<p><br><b><u>EFFECTS OF THE MOVEMENT:</u><br></p>
+<p> To start a movement, you need a strategy that inspires, empowers and enables in equal measure. Make in India needed a different kind of campaign: instead of the typical statistics-laden newspaper advertisements, this exercise required messaging that was informative, well-packaged and most importantly, credible. It had to:
 
-### Jekyll Themes
+<p><br>(A) Inspire confidence in India's capabilities amongst potential partners abroad, the Indian business community and citizens at large; 
+<br>(B) Provide a framework for a vast amount of technical information on 25industry sectors; and 
+<br>(C) Reach out to a vast local and global audience via social media and constantly keep them updated about opportunities, reforms, etc.</p>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Khushaalarora/RD-RAJPAL/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+<img src="C:\Users\Lenovo\Desktop\modi 2.jpg"width="30%" style="margin-left:350px;">
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<p><br>
+<b><u>THE BENEFITS OF MAKE IN INDIA ARE :</b></u>
+</p>
+<p>1.	All the millions of young people passing out of Colleges will get job<br>
+ 2.       The industries don't just develop one factory but they also develop surrounding areas.<br>
+3.	This means schools, hospitals, banks, other facilities for people who were away from such facilities before.<br>
+ 4.	Developing infrastructure of the surrounding region. Infrastructure like Electricity, Water, Roads, Railways, etc.<br>
+5. 	Increasing the standard of living for millions.<br>
+ 6.	Supporting many small scale industries which are dependent on these large scale manufacturers.<br></p>
+<img src="C:\Users\Lenovo\Desktop\khu.png"width="40%" style="margin-left:100px;">
+<img src="C:\Users\Lenovo\Desktop\in.png"width="40%" syle="margin-right:100px;">
+</div>
+
+</body>
+</html>
+
+
